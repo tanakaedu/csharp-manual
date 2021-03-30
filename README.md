@@ -2,6 +2,7 @@
 C#について学んだことをまとめるリポジトリーです。
 
 # 参考URL
+- [Microsoft. C# 関連のドキュメント](https://docs.microsoft.com/ja-jp/dotnet/csharp/)
 - [Nobuyuki Iwanaga, ++C++; // 未確認飛行Cについて](http://ufcpp.net/study/csharp/index.html)
 - [paizaラーニング C#入門編](https://paiza.jp/works/cs/primer)
 - [ドットインストール C#入門](http://dotinstall.com/lessons/basic_csharp)
